@@ -3,7 +3,9 @@ package io.github.mac_genius.pong;
 import javax.swing.*;
 
 /**
- * Created by Mac on 10/13/2015.
+ * This is the actual game layout.
+ *
+ * @author John Harrison
  */
 public class GameLayout extends JPanel {
 
